@@ -1,0 +1,40 @@
+img {
+    width: 400px;
+    border-radius: 20px
+}
+p {
+    width: 500px;
+}
+
+body {
+    font-family: inherit;
+    background: linear-gradient(#636FA4, #F8FFAE);
+}
+.btn{
+    background: 
+     linear-gradient(#be93c5,#7bc6cc);
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.container {
+    width: 700px;
+    background: radial-gradient(#E8CBC0, #EC6EAD);
+    padding: 20px 70px;
+        margin: 0 auto;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    background: #f5c4e2;
+}
+.menu__link {
+    background: 
+     linear-gradient(#EEAECA,#94BBE9);
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
